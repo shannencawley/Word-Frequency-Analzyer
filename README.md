@@ -25,5 +25,5 @@ Run program after compilation: ./app [filename.txt]
 7. STL Sequential Container Recursive
 8. Exit
 
-#Acknowledge
+# Acknowledge
 Template provided by Dr.Daniel Spiegel of Kutztown University.
