@@ -9,11 +9,11 @@ This project utilizes polymorphism, inheritance, and STL objects-oriented design
 - Doxygen formating documentation and in text documentation comments
 
 # Installation and Compilation
-Clone the repository with command: git clone[repository-url]
-Navigate to the cloned directory: cd [local-repository]
-Compile project with makefile using command: make
-Run program after compilation: ./app [filename.txt] 
- - replace "filename.txt" with a text file, animals.txt included in repository
+- Clone the repository with command: git clone[repository-url]
+- Navigate to the cloned directory: cd [local-repository]
+- Compile project with makefile using command: make
+- Run program after compilation: ./app [filename.txt]
+     * replace "filename.txt" with a text file, animals.txt included in repository
 
 # Menu Options (methods of output)
 1. Object Array Iterative
